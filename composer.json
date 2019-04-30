@@ -1,5 +1,6 @@
 {
-    "name": "werneckbh/qr-code",
+    "name": "stonjohnsson/werneckbh-qrcode",
+    "version": "2.1.15",
     "description": "QR Code Generator for PHP",
     "type": "library",
     "license": "MIT",
